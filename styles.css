@@ -203,6 +203,10 @@ h2, h3, h4 {
 
 @media (max-width: 800px) {
 
+nav {
+font-size: 100%;
+}
+
 body {
   font-size: smaller;
  }
